@@ -2,6 +2,11 @@
 
 <br>
 
+![GithubRepoSize](https://img.shields.io/badge/REPO%20SIZE-2.52%20MB-blue?style=flat-square)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5e512f9-d99c-409c-9f23-6358959d4205/deploy-status)](https://urna-eletronica-online.netlify.app/)
+
+<br>
+
 <img src="./assets/preview.gif">
 
 <br>
@@ -29,8 +34,11 @@
 <br>
 
 > 1: Acesse o arquivo "etapas.js"
+
 > <br>
+
 > 2: Siga o seguinte modelo:
+
 > <br>
 
 ```
@@ -47,3 +55,8 @@
     ],
   },
 ```
+
+## Como acessar
+
+<br>
+> Para acessar de forma online este projeto, basta clicar <a href="https://urna-eletronica-online.netlify.app/">Aqui</a>
