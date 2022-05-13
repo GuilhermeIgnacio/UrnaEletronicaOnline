@@ -121,7 +121,9 @@ document.querySelector(".btnConfirma").addEventListener("click", () => {
     if (etapas[etapaAtual] !== undefined) {
       comecarEtapa();
     } else {
-      console.log("FIM!");
+      document.querySelector(
+        ".tela"
+      ).innerHTML = `<div class="avisoGigante pisca">FIM!</div>`;
     }
   }
 });
