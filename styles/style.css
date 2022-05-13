@@ -156,3 +156,8 @@ body {
   width: 80%;
   font-size: 12px;
 }
+
+.avisoGrande {
+  font-size: 40px;
+  font-weight: bold;
+}
